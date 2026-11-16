@@ -1,6 +1,10 @@
-# Tugas Docker Minggu 9
+# Tugas Rumah Minggu 9: Containerization & Docker
 
 Nama: Alifah Windy Khairiya
+
+NPM: 202557201004
+
+Kelas: A
 
 ## Langkah Pengerjaan
 1. Membuat file Dockerfile dan index.html
